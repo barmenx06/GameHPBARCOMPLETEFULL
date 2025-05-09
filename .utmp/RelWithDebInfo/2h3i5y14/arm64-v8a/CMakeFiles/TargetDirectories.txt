@@ -1,0 +1,5 @@
+C:/Users/Berkant/Desktop/MobilGame/Stage1Game/.utmp/RelWithDebInfo/2h3i5y14/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Berkant/Desktop/MobilGame/Stage1Game/.utmp/RelWithDebInfo/2h3i5y14/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Berkant/Desktop/MobilGame/Stage1Game/.utmp/RelWithDebInfo/2h3i5y14/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Berkant/Desktop/MobilGame/Stage1Game/.utmp/RelWithDebInfo/2h3i5y14/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Berkant/Desktop/MobilGame/Stage1Game/.utmp/RelWithDebInfo/2h3i5y14/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

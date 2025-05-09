@@ -1,0 +1,10 @@
+# ninja log v5
+6	959	7684948591265205	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cffb4f959a044764
+13	973	7684948591410308	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	39e63e9ac2919510
+0	995	7684948591625434	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e810fb50fb225f85
+5	1013	7684948591815430	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	86a43acc657a84ee
+2	1044	7684948592116914	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	db7c00fffebb24fd
+10	1083	7684948592508488	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	28a8f84b2cb080dc
+8	1229	7684948593981339	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ed713e27a9945d86
+3	1407	7684948595643089	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c0ac4977e70f3565
+1407	1507	7684948596664635	C:/Users/Berkant/Desktop/MobilGame/Stage1Game_HPBARA KADAR cursor v1/Stage1Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4c4w4g53/obj/arm64-v8a/libgame.so	80f33549bca46b81

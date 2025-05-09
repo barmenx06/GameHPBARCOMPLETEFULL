@@ -1,0 +1,1 @@
+C:\Users\Berkant\Desktop\MobilGame\Stage1Game_HPBARA KADAR cursor v1\Stage1Game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4c4w4g53\obj\arm64-v8a
